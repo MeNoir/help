@@ -6,7 +6,6 @@ nav ul li{
 
 nav{
     display: flex;
-    padding: 20px 0;
     align-items: center;
     justify-content: space-between;
 }
